@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Arno-H0me
+- 👋 Hi, I’m Arno
 - 👀 I’m interested in Domotics
-- 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on; Hum i'm still searching
 - 📫 How to reach me, Humm wait for a while ;-)
 
